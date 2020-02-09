@@ -33,3 +33,4 @@ module DockerRails
     config.api_only = true
   end
 end
+
